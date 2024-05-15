@@ -1,0 +1,11 @@
+﻿CustomerID;Name;Email;Phone;Address
+1;Alice Henderson;alice.henderson@email.com;555-1234;123 Elm St, Springfield
+2;Bob Sanders;bob.sanders@email.com;555-5678;456 Oak St, Rivertown
+3;Charlie Brown;charlie.brown@email.com;555-9101;789 Pine St, Lakeview
+4;Donna Noble;donna.noble@email.com;555-1213;210 Maple St, Centerville
+5;Edward Johnson;edward.johnson@email.com;555-1415;531 Birch St, Eastville
+6;Fiona Apple;fiona.apple@email.com;555-1617;642 Cedar St, Westfield
+7;George King;george.king@email.com;555-1819;753 Spruce St, Southtown
+8;Heather Morris;heather.morris@email.com;555-2021;864 Walnut St, Northgate
+9;Ian Fleming;ian.fleming@email.com;555-2223;975 Ash St, Smalltown
+10;Julia Child;julia.child@email.com;555-2425;1086 Elm St, Big City
